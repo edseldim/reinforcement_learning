@@ -1,0 +1,6 @@
+-- Pytorch tutorial
+https://www.learnpytorch.io/
+
+-- Reinforcement Learning Tutorials
+https://www.udemy.com/course/reinforcement_learning_principiante_maestro_1
+https://www.youtube.com/watch?v=C3p2wI4RAi8&list=LL&index=4&pp=gAQBiAQB
